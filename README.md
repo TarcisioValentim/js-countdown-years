@@ -1,7 +1,7 @@
 10 projects with js, html e css 
 ------------------------------------
 
-<img width="30%" align="right" src="./assets/images/readmeimg.jpg"/>
+<img width="80%" align="right" src="./assets/images/readmeimg.jpg"/>
 
 ------------------------------------
 url Font: 
