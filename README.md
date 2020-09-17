@@ -1,9 +1,10 @@
 10 projects with js, html e css 
 ------------------------------------
 
-<img src="./assets/images/readmeimg.jpg"
+<img width="30%" align="right"
+src="./assets/images/readmeimg.jpg"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="float: left; margin-right: 100px;" />
 
 ------------------------------------
 url Font: 
